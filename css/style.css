@@ -1,0 +1,167 @@
+body {
+    background-color: #ffffff;
+    font-family: "Roboto",sans-serif;
+    font-size: 14px; 
+    color:#757575;
+}
+ul {
+    list-style-type: none;
+}
+:link {
+    text-decoration:none;
+    color: inherit;
+}
+a:hover, a:focus {
+    color: #2196F3;
+    text-decoration: underline;
+}
+.global-header .header-logo {
+    color: #000;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+}
+.header-logo-web {
+    color: #2196F3;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+}
+.global-header {
+    background-color: #ECECEC;
+}
+
+.global-header .main-navigation a:visited {
+    color: #212121;
+}
+
+.global-header .main-navigation a:hover,
+ .global-header .main-navigation a:focus{
+    color:#2196F3;
+    text-decoration: none;
+}
+.global-header .main-navigation a:active {
+    color: #2196F3;
+}
+.global-header .main-navigation {
+    font-family: inherit;
+    font-weight: 500;
+}
+.global-header .main-navigation .current {
+    color: #2196F3;
+}
+.request {
+    background-color:#2F303A;
+}
+.request .request-button {
+    font-family: inherit;
+    font-weight: 700;
+    color:#ffffff;
+    background-color: #2196F3;
+    cursor: pointer;
+}
+h1 {
+    font-family: inherit;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 44px;
+    text-align: center;
+}
+h2 {
+    font-family: inherit;
+    color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+h3 {
+    font-family: inherit;
+    color: #212121;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+}
+.what-we-do-list .what-we-do {
+    color: inherit;
+    font-family: inherit;
+    line-height: 1;
+}
+.what-we-do-list .what-we-do .what-we-do-title {
+    color: #212121;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1,5;
+}
+.our-team {
+background-color: #F5F4FA; 
+}
+.our-team .our-team-list {
+    background-color: #ffffff;
+}
+.our-team .our-team-list .job-position {
+    color: inherit;
+    font-family: inherit;
+    text-align: center;
+    display: block;
+    line-height: 1;
+}
+footer {
+    background-color: #2F303A;
+}
+address {
+    color:#ffffff;
+    font-family: inherit;
+    line-height: 1,5;
+    font-style: normal;
+} 
+.global-footer .contact-footer {
+    font-family: inherit;
+    font-style:normal;
+    font-weight: 400;
+}
+.global-footer .logo-footer {
+    color: #ffffff;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+}
+.global-footer .logo-footer .logo-footer-web {
+    color: #2196F3;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+}
+.filter .filter-button {
+    color: #212121;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    ;
+}
+.filter .filter-button .filter-button-current {
+    font-family: inherit;
+    font-weight: 500;
+    background-color: #2196F3;
+    color: #ffffff;
+    border: #2196F3;;
+    cursor: pointer;
+}
+.button {
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    background-color:#F5F4FA;
+    border: none;
+}
+.filter-list .filter-card {
+    border-color: #EEEEEE;
+}
+.filter-list .filter-card .filter-title {
+    color: #212121;
+    font-family: inherit;
+    font-weight: 700;
+    text-align: left;
+}
+    
